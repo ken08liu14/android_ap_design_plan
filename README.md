@@ -16,6 +16,6 @@ studio one months ago and it could not work any more just because I mis-clicked
 update SDK version; now it keeps failing at Gradle sync and finally report error.
 :(
 
-### 1. Install Enviornment
-### 2. Create an empty project with wizard; and run it in Emulator, to make
-sure your environment is all OK.
+1. Install Enviornment
+2. Create an empty project with wizard and run it in Emulator, to make
+   sure your environment is all OK.
