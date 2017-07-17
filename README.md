@@ -19,3 +19,11 @@ update SDK version; now it keeps failing at Gradle sync and finally report error
 1. Install Enviornment
 2. Create an empty project with wizard and run it in Emulator, to make
    sure your environment is all OK.
+
+## The first applications
+For all games, there need to be a convas. Design an photoview applications that could:
+1. Select an picture to be viewed;
+2. Put the picture into 100% rate of view in screen, full screen mode;
+3. If picture is too big, could use touch to slide windows to view area of this picture.
+
+Go for it!
